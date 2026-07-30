@@ -46,7 +46,6 @@ Source: Kaggle
 - F1 Dataset.xlsx
 
 ---
-
 ##Author
 Latifa Alnijadi
 Computer Science Student
