@@ -42,7 +42,7 @@ Source: Kaggle
 
 ## 🚀 Files
 
-- Formula 1 World Championship Dashboard.pbix
+- F1.pbix
 - F1 Dataset.xlsx
 
 ---
